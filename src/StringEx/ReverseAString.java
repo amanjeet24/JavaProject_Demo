@@ -34,10 +34,5 @@ public class ReverseAString {
 		*/
 	}
 
-	/*
-	private static String String(char charAt) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-*/
+
 }
