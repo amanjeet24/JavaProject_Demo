@@ -9,7 +9,7 @@ public class ContinueStatement {
 		{
 			if (i==5)
 			{
-				continue;
+				continue;  //for break, jump out of the for loop when condition is true and for continue, controller skip that statement if condition is true,controller jump to inr/dcr
 			}
 			System.out.println(i);
 		}
